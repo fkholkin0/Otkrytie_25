@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-# custom_css: assets/css/style.css
 links:
   Открытие’25: /index.md
   Контакты: /contacts.md
