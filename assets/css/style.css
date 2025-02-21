@@ -1,1 +1,6 @@
-
+.page-header {
+    background-image: url('assets/images/file.png');
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Задайте высоту на ваше усмотрение */
+}
