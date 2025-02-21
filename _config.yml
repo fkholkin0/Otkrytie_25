@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+links:
+  Главная: /index.md
+  Контакты: /contacts.md
