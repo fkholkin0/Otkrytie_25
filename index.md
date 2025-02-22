@@ -5,7 +5,7 @@ description: Основная инфоромация для участников
 ---
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 **24 мая 2025** года состоится самая массовая пейнтбольная сценарная игра года — **«Открытие’25»**! 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xi-ugANhTo8?si=eTECQkxxqNahi7t_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="860" height="515" src="https://www.youtube.com/embed/Xi-ugANhTo8?si=eTECQkxxqNahi7t_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 Приглашаем вас принять участие в этом незабываемом фестивале пейнтбола!  
 
