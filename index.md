@@ -99,12 +99,82 @@ description: Основная инфоромация для участников
 
 ### Прокат оборудования
 
-| **Обычный прокат**                                             | **ВИП-прокат (осталось 6 ❗️ комплектов)**                                                                                                             |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://i.imgur.com/PljH0Cp.png)                       | ![](https://i.imgur.com/hh8hgf0.png)                                                                                                                  |
-| **1 500 ₽**                                                | **3 500 ₽**                                                                                                                                           |
-| - Форма<br>- маска<br>- перчатки и маркер (типман 98).<br> | - Форма<br>- маска с термолинзой<br>- бронежилет<br>- электронный маркер (стреляет быстрее и точнее)<br>- харнес с 3 трубами для дополнительных шаров |
-| Предоплата: **1 500 ₽** (полная сумма).                    | Предоплата **1 000 ₽**, остальное оплачивается в день игры                                                                                            |
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+    vertical-align: top;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+  
+  .price {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+  
+  .prepayment {
+    margin-top: 15px;
+    font-style: italic;
+  }
+  
+  .alert {
+    color: #dd0000;
+  }
+</style>
+
+<table>
+  <tr>
+    <th>Обычный прокат</th>
+    <th>ВИП-прокат (осталось 6 ❗️ комплектов)</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://i.imgur.com/PljH0Cp.png"style="width: 400px; height: 200px; object-fit: cover;">
+      <div class="price">1 500 ₽</div>
+      <ul>
+        <li>Форма</li>
+        <li>маска</li>
+        <li>перчатки и маркер (типман 98)</li>
+      </ul>
+      <div class="prepayment">
+        Предоплата: <strong>1 500 ₽</strong> (полная сумма).
+      </div>
+    </td>
+    <td>
+      <img src="https://i.imgur.com/hh8hgf0.png" style="width: 400px; height: 300px; object-fit: cover;">
+      <div class="price">3 500 ₽</div>
+      <ul>
+        <li>Форма</li>
+        <li>маска с термолинзой</li>
+        <li>бронежилет</li>
+        <li>электронный маркер (стреляет быстрее и точнее)</li>
+        <li>харнес с 3 трубами для дополнительных шаров</li>
+      </ul>
+      <div class="prepayment">
+        Предоплата <strong>1 000 ₽</strong>, остальное оплачивается в день игры
+      </div>
+    </td>
+  </tr>
+</table>
 > **Залог:** Для получения оборудования потребуется документ (паспорт или права).
 <br>
 
