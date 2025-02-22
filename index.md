@@ -148,7 +148,8 @@ description: Основная инфоромация для участников
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/PljH0Cp.png"style="height: 200px; object-fit: cover;">
+      <img src="https://i.imgur.com/APOFtRD.png"style="object-fit: cover;">
+      <br><br>
       <div class="price">1 500 ₽</div>
       <ul>
         <li>Форма</li>
@@ -160,7 +161,7 @@ description: Основная инфоромация для участников
       </div>
     </td>
     <td>
-      <img src="https://i.imgur.com/hh8hgf0.png" style="height: 200px; object-fit: cover;">
+      <img src="https://i.imgur.com/hh8hgf0.png" style=" object-fit: cover;">
       <div class="price">3 500 ₽</div>
       <ul>
         <li>Форма</li>
