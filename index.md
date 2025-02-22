@@ -148,7 +148,7 @@ description: Основная инфоромация для участников
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/APOFtRD.png"style="object-fit: cover;">
+       <img src="https://i.imgur.com/APOFtRD.png" style=" object-fit: cover;">
       <br><br>
       <div class="price">1 500 ₽</div>
       <ul>
