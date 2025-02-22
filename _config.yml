@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
 links:
   Открытие’25: /index.md
   Контакты: /contacts.md
+
+buttons:
+      github_hide: true
