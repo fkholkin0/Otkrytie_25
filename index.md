@@ -5,7 +5,7 @@ description: Основная инфоромация для участников
 ---
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 **24 мая 2025** года состоится самая массовая пейнтбольная сценарная игра года — **«Открытие’25»**! 
-<iframe width="860" height="515" src="https://www.youtube.com/embed/Xi-ugANhTo8?si=eTECQkxxqNahi7t_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="830" height="505" src="https://www.youtube.com/embed/Xi-ugANhTo8?si=eTECQkxxqNahi7t_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 Приглашаем вас принять участие в этом незабываемом фестивале пейнтбола!  
 
@@ -22,7 +22,9 @@ description: Основная инфоромация для участников
 В игре участвуют не только полевые игроки, но и медики, квестоводы, гранатомётчики, артиллеристы и, конечно же, самая настоящая техника — броневики и танки!  
 
 
-<div style="display: flex; justify-content: center; gap: 2px;"> <img src="https://i.imgur.com/7DDBZ7U.jpeg" style="max-width: 65%;"> <img src="https://i.imgur.com/Pe8iDzR.png" style="max-width: 47%;">
+<div style="display: flex; justify-content: center; align-items: center; max-width: 1200px; margin: 0 auto; gap: 4px;">
+    <img src="https://i.imgur.com/7DDBZ7U.jpeg" style="flex: 1.4; max-width: 55%;">
+    <img src="https://i.imgur.com/Pe8iDzR.png" style="flex: 1; max-width: 45%;">
 </div>
 <br>
 
@@ -54,9 +56,11 @@ description: Основная инфоромация для участников
 
 ### Организация
 Наша команда организует собственную комфортабельную зону размещения и отдыха
-- Шатры для хранения личных вещей
-- Пит-зона для зарядки шаров
-- Штаб и большой шатёр, чтобы укрыться от солнца или дождя.  
+> **Наш лагерь**
+> ![](https://i.imgur.com/4ElTdpH.png)
+>  Шатры для хранения личных вещей <br>
+>  Пит-зона для зарядки шаров <br>
+>  Штаб и большой шатёр, чтобы укрыться от солнца или дождя. <br> 
 
 > **Зона кухни**
 > ![](https://i.imgur.com/XR9XiNT.png)  
