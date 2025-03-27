@@ -74,7 +74,7 @@ description: Основная инфоромация для участников
 **Полиго "Девяткино", 14км от МКАД, Калужское шоссе**.
 <div class="map_container">
 <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A5216ce349e78af716ba155abee817284698fb0e89a2b51f36142efa5b048aaca&amp;source=constructor" width="903" height="589" frameborder="0"></iframe>
-<div>
+</div>
 
 ---
 
