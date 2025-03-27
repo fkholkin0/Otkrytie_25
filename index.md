@@ -24,13 +24,21 @@ description: Основная инфоромация для участников
 </style>
 
 <div class="video-container">
-  <iframe 
+<!--   <iframe 
     src="https://www.youtube.com/embed/Xi-ugANhTo8?si=eTECQkxxqNahi7t_" 
     title="YouTube video player" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     referrerpolicy="strict-origin-when-cross-origin" 
     allowfullscreen>
-  </iframe>
+  </iframe> -->
+
+  <!--     width="720" 
+    height="405"  -->
+  <iframe 
+    src="https://rutube.ru/play/embed/23f10a1ea2d770e59fb00b0901eea056/" 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 Приглашаем вас принять участие в этом незабываемом фестивале пейнтбола!  
@@ -62,11 +70,11 @@ description: Основная инфоромация для участников
 
 ---
 
-### **ВАЖНО**
-> **Место проведения игры всё ещё уточняется**.
-> 
-> Как правило, это Подмосковье в пределах **50–70 км от МКАД**.  
-> В прошлом году игра проходила в южном направлении.  
+### Место проведения игры
+**Полиго "Девяткино", 14км от МКАД, Калужское шоссе**.
+<div class="map_container">
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A5216ce349e78af716ba155abee817284698fb0e89a2b51f36142efa5b048aaca&amp;source=constructor" width="903" height="589" frameborder="0"></iframe>
+<div>
 
 ---
 
@@ -107,7 +115,7 @@ description: Основная инфоромация для участников
 ---
 
 ### Регистрация и оплата
-Коллективная командная заявка будет подана организаторами, поэтому вам не нужно тратить время на регистрацию. Всё, что требуется, — перевести средства за заявку по реквизитам ниже:  
+Коллективная командная заявка будет подана организаторами, поэтому вам не нужно тратить время на регистрацию. Всё, что требуется, — сообщить Ваши полные ФИО, дату рождения и перевести средства за заявку по реквизитам ниже:  
 
 **СБЕРБАНК:**  
 Карта: **2202 2032 8231 0962**<br>
