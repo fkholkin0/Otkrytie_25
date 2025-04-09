@@ -45,12 +45,22 @@ description: Основная инфоромация для участников
 
 Штатно игра рассчитана на **1 500 игроков**!<br>
 
-<div style="border: 2px solid #000; background-color: #fff; padding: 20px; border-radius: 15px; text-align: left; font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 18px; line-height: 1.5; color: #333; max-width: 400px; margin: auto;">
-  <p style="margin: 0; font-size: 22px; font-weight: bold;">В этом году у нас уже:</p>
-  <p style="margin: 10px 0;"><span style="font-size: 36px; font-weight: bold; color: #d9534f;">101</span> оплаченная заявка</p>
-  <p style="margin: 10px 0;"><span style="font-size: 36px; font-weight: bold; color: #5bc0de;">52</span> комплекта VIP-проката выкуплено</p>
-  <p style="margin: 10px 0;"><span style="font-size: 36px; font-weight: bold; color: #5cb85c;">8</span> гранатометов</p>
+<div style="border: 2px solid #000; background-color: #fff; padding: 20px; border-radius: 15px; font-family: Arial, sans-serif; font-size: 18px; line-height: 1.5; color: #333; max-width: 100%; box-sizing: border-box;">
+  <p style="text-align: left; margin: 0; font-size: 22px; font-weight: bold;">В этом году у нас уже:</p>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <span style="color: #d9534f; font-size: 36px; font-weight: bold;">101</span>
+    <span style="color: #333;">оплаченная заявка</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <span style="color: #5bc0de; font-size: 36px; font-weight: bold;">52</span>
+    <span style="color: #333;">комплекта VIP-проката</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <span style="color: #5cb85c; font-size: 36px; font-weight: bold;">8</span>
+    <span style="color: #333;">гранатометов</span>
+  </div>
 </div>
+
 В прошлом году наша команда **«Пушечное мясо»** традиционно приняла участие в «Открытии’24», выставив на поле **68 бойцов** (из 85 заявленных)!
 ![](https://i.imgur.com/GvtSmiN.png)
 
