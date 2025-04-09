@@ -45,28 +45,6 @@ description: Основная инфоромация для участников
 
 Штатно игра рассчитана на **1 500 игроков**!<br>
 
-
-<div style="background: linear-gradient(to bottom right, #f2f8f2, #e8f3e8); border-radius: 20px; padding: 30px; font-family: 'Roboto', 'Arial', sans-serif; box-shadow: 0 10px 30px rgba(0,0,0,0.08); width: 100%; box-sizing: border-box; max-width: 900px; margin: 0 auto;">
-  <h2 style="color: #155C95; font-size: 32px; margin-bottom: 40px; font-weight: 500; text-align: left; border-bottom: 1px solid rgba(0,0,0,0.1); padding-bottom: 15px;">В этом году, <b>Пушечное Мясо</b> это:</h2>
-  
-  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
-    <div style="color: #d9534f; font-size: 28px; font-weight: 400;">оплаченных заявок</div>
-    <div style="color: #d9534f; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">101</div>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
-    <div style="color: #3a7bd5; font-size: 28px; font-weight: 400;">VIP-проката выкуплено</div>
-    <div style="color: #3a7bd5; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">52</div>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
-    <div style="color: #5cb85c; font-size: 28px; font-weight: 400;">гранатометов</div>
-    <div style="color: #5cb85c; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">8</div>
-  </div>
-</div>
-
-
-
 В прошлом году наша команда **«Пушечное мясо»** традиционно приняла участие в «Открытии’24», выставив на поле **68 бойцов** (из 85 заявленных)!
 ![](https://i.imgur.com/GvtSmiN.png)
 
@@ -87,8 +65,28 @@ description: Основная инфоромация для участников
 
 А ещё наши дети!
 > Самой младшей участнице было **6 лет**, когда она отважно ходила в  штурмы со своим отцом-командиром, весь день прикрывая его щитом! 😊 
-> <img src="https://i.imgur.com/H8ggpnf.png" style="max-width: 40%;">
-<br>Тем не менее, пейнтбол иногда бывает болезненным, поэтому всегда будьте начеку и старайтесь не подставляться!  
+> <img src="https://i.imgur.com/H8ggpnf.png" style="max-width: 40%;"><br>
+
+<br>
+<div style="background: linear-gradient(to bottom right, #f2f8f2, #e8f3e8); border-radius: 20px; padding: 30px; font-family: 'Roboto', 'Arial', sans-serif; box-shadow: 0 10px 30px rgba(0,0,0,0.08); width: 100%; box-sizing: border-box; max-width: 900px; margin: 0 auto;">
+  <h2 style="color: #155C95; font-size: 32px; margin-bottom: 40px; font-weight: 500; text-align: left; border-bottom: 1px solid rgba(0,0,0,0.1); padding-bottom: 15px;">В этом году, <b>Пушечное Мясо</b> это:</h2>
+  
+  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
+    <div style="color: #d9534f; font-size: 28px; font-weight: 400;">оплаченных заявок</div>
+    <div style="color: #d9534f; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">101</div>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
+    <div style="color: #3a7bd5; font-size: 28px; font-weight: 400;">VIP-проката выкуплено</div>
+    <div style="color: #3a7bd5; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">52</div>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
+    <div style="color: #5cb85c; font-size: 28px; font-weight: 400;">гранатометов</div>
+    <div style="color: #5cb85c; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">8</div>
+  </div>
+</div>
+
 
 ---
 
