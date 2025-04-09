@@ -45,21 +45,22 @@ description: Основная инфоромация для участников
 
 Штатно игра рассчитана на **1 500 игроков**!<br>
 
-<div style="border: 2px solid #000; background-color: #f9f9f9; padding: 20px; border-radius: 15px; font-family: Arial, sans-serif; font-size: 18px; line-height: 1.5; color: #333; max-width: 100%; box-sizing: border-box;">
-  <p style="text-align: left; margin: 0; font-size: 22px; font-weight: bold;">В этом году, "Пушечное Мясо" это:</p>
-  <div style="background-color: #fff; border-radius: 10px; margin-top: 20px; padding: 15px;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-      <span style="color: #d9534f; font-size: 36px; font-weight: bold;">101</span>
-      <span style="color: #333;">оплаченная заявка</span>
-    </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-      <span style="color: #5bc0de; font-size: 36px; font-weight: bold;">52</span>
-      <span style="color: #333;">комплекта VIP-проката</span>
-    </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-      <span style="color: #5cb85c; font-size: 36px; font-weight: bold;">8</span>
-      <span style="color: #333;">гранатометов</span>
-    </div>
+<div style="border: 2px solid #000; background-color: #fff; padding: 20px; border-radius: 40px; font-family: Arial, sans-serif; box-sizing: border-box; max-width: 700px; margin: 0 auto;">
+  <h2 style="font-size: 28px; margin-top: 0; margin-bottom: 30px;">В этом году, "Пушечное Мясо" это:</h2>
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
+    <span style="color: #d9534f; font-size: 26px;">оплаченных заявкок:</span>
+    <span style="color: #d9534f; font-size: 90px; font-weight: bold;">101</span>
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
+    <span style="color: #3a7bd5; font-size: 26px;">VIP-проката выкуплено:</span>
+    <span style="color: #3a7bd5; font-size: 90px; font-weight: bold;">52</span>
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
+    <span style="color: #5cb85c; font-size: 26px;">гранатометов:</span>
+    <span style="color: #5cb85c; font-size: 90px; font-weight: bold;">8</span>
   </div>
 </div>
 
