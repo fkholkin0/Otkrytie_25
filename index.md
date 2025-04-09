@@ -44,16 +44,13 @@ description: Основная инфоромация для участников
 Приглашаем вас принять участие в этом незабываемом фестивале пейнтбола!  
 
 Штатно игра рассчитана на **1 500 игроков**!<br>
-<div style="border: 2px solid #4CAF50; background-color: #f9fff9; padding: 20px; border-radius: 10px; text-align: center; font-family: Arial, sans-serif; color: #333;">
-  <p style="font-size: 18px; margin: 0;">У нас уже</p>
-  <p style="font-size: 36px; font-weight: bold; margin: 0; color: #4CAF50;">101</p>
-  <p style="font-size: 18px; margin: 0;">оплаченная заявка</p>
-  <hr style="border: 1px solid #ddd; margin: 20px 0;">
-  <p style="font-size: 24px; font-weight: bold; margin: 0; color: #f44336;">8 гранатометов</p>
-  <p style="font-size: 18px; margin: 0;"> Выкуплено </p>
-  <p style="font-size: 24px; font-weight: bold; margin: 0; color: #2196F3;">52 комплекта VIP-проката</p>
-</div>
 
+<div style="border: 2px solid #000; background-color: #fff; padding: 20px; border-radius: 15px; text-align: left; font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 18px; line-height: 1.5; color: #333; max-width: 400px; margin: auto;">
+  <p style="margin: 0; font-size: 22px; font-weight: bold;">В этом году у нас уже:</p>
+  <p style="margin: 10px 0;"><span style="font-size: 36px; font-weight: bold; color: #d9534f;">101</span> оплаченная заявка</p>
+  <p style="margin: 10px 0;"><span style="font-size: 36px; font-weight: bold; color: #5bc0de;">52</span> комплекта VIP-проката выкуплено</p>
+  <p style="margin: 10px 0;"><span style="font-size: 36px; font-weight: bold; color: #5cb85c;">8</span> гранатометов</p>
+</div>
 В прошлом году наша команда **«Пушечное мясо»** традиционно приняла участие в «Открытии’24», выставив на поле **68 бойцов** (из 85 заявленных)!
 ![](https://i.imgur.com/GvtSmiN.png)
 
