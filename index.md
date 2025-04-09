@@ -45,24 +45,44 @@ description: Основная инфоромация для участников
 
 Штатно игра рассчитана на **1 500 игроков**!<br>
 
-<div style="border: 2px solid #000; background-color: #fff; padding: 20px; border-radius: 40px; font-family: Arial, sans-serif; box-sizing: border-box; max-width: 700px; margin: 0 auto;">
-  <h2 style="font-size: 28px; margin-top: 0; margin-bottom: 30px;">В этом году, "Пушечное Мясо" это:</h2>
+<div style="border: 2px solid #333; background-color: #f2f8f2; padding: 40px; border-radius: 20px; font-family: 'Arial', sans-serif; width: 100%; box-sizing: border-box; max-width: 900px; margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <h2 style="font-size: 32px; color: #4a9a4a; margin-top: 0; margin-bottom: 50px; font-weight: 500;">В этом году, "Пушечное Мясо" это:</h2>
   
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
-    <span style="color: #d9534f; font-size: 26px;">оплаченных заявкок:</span>
-    <span style="color: #d9534f; font-size: 90px; font-weight: bold;">101</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 30px 0; flex-wrap: wrap;">
+    <span style="color: #d9534f; font-size: 28px; font-weight: 400;">оплаченных заявок:</span>
+    <span style="color: #d9534f; font-size: 100px; font-weight: bold; line-height: 1;">101</span>
   </div>
   
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
-    <span style="color: #3a7bd5; font-size: 26px;">VIP-проката выкуплено:</span>
-    <span style="color: #3a7bd5; font-size: 90px; font-weight: bold;">52</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 30px 0; flex-wrap: wrap;">
+    <span style="color: #3a7bd5; font-size: 28px; font-weight: 400;">VIP-проката выкуплено:</span>
+    <span style="color: #3a7bd5; font-size: 100px; font-weight: bold; line-height: 1;">52</span>
   </div>
   
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
-    <span style="color: #5cb85c; font-size: 26px;">гранатометов:</span>
-    <span style="color: #5cb85c; font-size: 90px; font-weight: bold;">8</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 30px 0; flex-wrap: wrap;">
+    <span style="color: #5cb85c; font-size: 28px; font-weight: 400;">гранатометов:</span>
+    <span style="color: #5cb85c; font-size: 100px; font-weight: bold; line-height: 1;">8</span>
   </div>
 </div>
+---
+<div style="background: linear-gradient(to bottom right, #f2f8f2, #e8f3e8); border-radius: 20px; padding: 30px; font-family: 'Roboto', 'Arial', sans-serif; box-shadow: 0 10px 30px rgba(0,0,0,0.08); width: 100%; box-sizing: border-box; max-width: 900px; margin: 0 auto;">
+  <h2 style="color: #3d8b3d; font-size: 32px; margin-bottom: 40px; font-weight: 500; text-align: center; border-bottom: 1px solid rgba(0,0,0,0.1); padding-bottom: 15px;">В этом году, "Пушечное Мясо" это:</h2>
+  
+  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
+    <div style="color: #d9534f; font-size: 28px; font-weight: 400;">оплаченных заявок:</div>
+    <div style="color: #d9534f; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">101</div>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
+    <div style="color: #3a7bd5; font-size: 28px; font-weight: 400;">VIP-проката выкуплено:</div>
+    <div style="color: #3a7bd5; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">52</div>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
+    <div style="color: #5cb85c; font-size: 28px; font-weight: 400;">гранатометов:</div>
+    <div style="color: #5cb85c; font-size: 100px; font-weight: 700; line-height: 1; text-align: right;">8</div>
+  </div>
+</div>
+
 
 
 В прошлом году наша команда **«Пушечное мясо»** традиционно приняла участие в «Открытии’24», выставив на поле **68 бойцов** (из 85 заявленных)!
