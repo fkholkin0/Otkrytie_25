@@ -73,7 +73,7 @@ description: Основная инфоромация для участников
   
   <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
     <div style="color: #d9534f; font-size: 28px; font-weight: 400;">оплаченных заявок</div>
-    <div style="color: #d9534f; font-size: 80px; font-weight: 700; line-height: 1; text-align: right;">101</div>
+    <div style="color: #d9534f; font-size: 85px; font-weight: 700; line-height: 1; text-align: right;">112</div>
   </div>
   
   <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
@@ -83,7 +83,7 @@ description: Основная инфоромация для участников
   
   <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
     <div style="color: #5cb85c; font-size: 28px; font-weight: 400;">гранатометов</div>
-    <div style="color: #5cb85c; font-size: 80px; font-weight: 700; line-height: 1; text-align: right;">8</div>
+    <div style="color: #5cb85c; font-size: 75px; font-weight: 700; line-height: 1; text-align: right;">8</div>
   </div>
 </div>
 
