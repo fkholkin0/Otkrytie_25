@@ -73,12 +73,12 @@ description: Основная инфоромация для участников
   
   <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
     <div style="color: #d9534f; font-size: 28px; font-weight: 400;">оплаченных заявок</div>
-    <div style="color: #d9534f; font-size: 85px; font-weight: 700; line-height: 1; text-align: right;">112</div>
+    <div style="color: #d9534f; font-size: 85px; font-weight: 700; line-height: 1; text-align: right;">125</div>
   </div>
   
   <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
-    <div style="color: #3a7bd5; font-size: 28px; font-weight: 400;">VIP-проката выкуплено</div>
-    <div style="color: #3a7bd5; font-size: 80px; font-weight: 700; line-height: 1; text-align: right;">52</div>
+    <div style="color: #3a7bd5; font-size: 28px; font-weight: 400;">Комплектов проката выкуплено</div>
+    <div style="color: #3a7bd5; font-size: 80px; font-weight: 700; line-height: 1; text-align: right;">73</div>
   </div>
   
   <div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; margin: 25px 0; align-items: center;">
