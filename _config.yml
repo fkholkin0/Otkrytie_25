@@ -1,4 +1,4 @@
-remote_theme: tuur29/pages-themes-cayman
+remote_theme: jekyll/minima@1e8a445
 links:
   Открытие’25: /index.md
   Контакты: /contacts.md
